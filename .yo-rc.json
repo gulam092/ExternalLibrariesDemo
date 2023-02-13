@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "external-libraries-demo",
+    "libraryId": "7548b917-2b9e-4986-a9ba-7adf7294bd8b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "external-libraries-demo",
+    "solutionShortDescription": "external-libraries-demo description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
